@@ -1,0 +1,131 @@
+Process Monitor - Real-time Results
+====================================
+Last updated: Thu Dec 11 15:23:46 2025
+Scan number: 134
+Drive: F:
+(Windows system processes and services are excluded)
+
+Programs detected running in a loop:
+-------------------------------------
+Program: Secure System (detected 134 times)
+Program: LsaIso.exe (detected 134 times)
+Program: helperservice.exe (detected 134 times)
+Program: NVDisplay.Container.exe (detected 268 times)
+Program: Memory Compression (detected 134 times)
+Program: AISControlService.exe (detected 134 times)
+Program: mDNSResponder.exe (detected 134 times)
+Program: Lenovo.Modern.ImController.exe (detected 134 times)
+Program: LenovoVantageService.exe (detected 134 times)
+Program: LenovoUtilityService.exe (detected 134 times)
+Program: nvcontainer.exe (detected 268 times)
+Program: NahimicService.exe (detected 134 times)
+Program: RtkAudUService64.exe (detected 134 times)
+Program: OfficeClickToRun.exe (detected 134 times)
+Program: MpDefenderCoreService.exe (detected 134 times)
+Program: windhawk.exe (detected 268 times)
+Program: UDClientService.exe (detected 134 times)
+Program: wlanext.exe (detected 134 times)
+Program: NahimicAPO4Volume.exe (detected 134 times)
+Program: NVIDIA Web Helper.exe (detected 134 times)
+Program: CrossDeviceResume.exe (detected 134 times)
+Program: SearchHost.exe (detected 134 times)
+Program: msedgewebview2.exe (detected 804 times)
+Program: LenovoVantage-(VantageCoreAddin).exe (detected 134 times)
+Program: LenovoVantage-(LenovoGamingSystemAddin).exe (detected 134 times)
+Program: FnHotkeyCapsLKNumLK.exe (detected 134 times)
+Program: FnHotkeyUtility.exe (detected 134 times)
+Program: Lively.exe (detected 134 times)
+Program: MicrosoftSecurityApp.exe (detected 134 times)
+Program: Rainmeter.exe (detected 134 times)
+Program: opera.exe (detected 3217 times)
+Program: opera_crashreporter.exe (detected 134 times)
+Program: Lively.Watchdog.exe (detected 134 times)
+Program: mpv.exe (detected 134 times)
+Program: cmd.exe (detected 134 times)
+Program: wenativehost.exe (detected 134 times)
+Program: nahimicNotifSys.exe (detected 134 times)
+Program: MessagingPlugin.exe (detected 134 times)
+Program: SystemNotificationPlugin.exe (detected 134 times)
+Program: AppProvisioningPlugin.exe (detected 134 times)
+Program: Locator.exe (detected 134 times)
+Program: WmiApSrv.exe (detected 134 times)
+Program: SEGameTool.exe (detected 134 times)
+Program: LenovoVantage-(GenericMessagingAddin).exe (detected 134 times)
+Program: LenovoVantage-(LenovoServiceBridgeAddin).exe (detected 134 times)
+Program: fdm.exe (detected 134 times)
+Program: AppActions.exe (detected 134 times)
+Program: ShellHost.exe (detected 134 times)
+Program: pacjsworker.exe (detected 268 times)
+Program: NgcIso.exe (detected 58 times)
+Program: Code.exe (detected 1340 times)
+Program: cpptools.exe (detected 268 times)
+Program: cpptools-srv.exe (detected 134 times)
+Program: hawkeye.exe (detected 134 times)
+Program: OpenConsole.exe (detected 134 times)
+Program: WindowsTerminal.exe (detected 134 times)
+Program: Notepad.exe (detected 4 times)
+Program: updater.exe (detected 32 times)
+Program: Taskmgr.exe (detected 8 times)
+
+
+All tracked processes:
+----------------------
+Secure System: 134 occurrences [LOOPING]
+LsaIso.exe: 134 occurrences [LOOPING]
+helperservice.exe: 134 occurrences [LOOPING]
+NVDisplay.Container.exe: 268 occurrences [LOOPING]
+Memory Compression: 134 occurrences [LOOPING]
+AISControlService.exe: 134 occurrences [LOOPING]
+mDNSResponder.exe: 134 occurrences [LOOPING]
+Lenovo.Modern.ImController.exe: 134 occurrences [LOOPING]
+LenovoVantageService.exe: 134 occurrences [LOOPING]
+LenovoUtilityService.exe: 134 occurrences [LOOPING]
+nvcontainer.exe: 268 occurrences [LOOPING]
+NahimicService.exe: 134 occurrences [LOOPING]
+RtkAudUService64.exe: 134 occurrences [LOOPING]
+OfficeClickToRun.exe: 134 occurrences [LOOPING]
+MpDefenderCoreService.exe: 134 occurrences [LOOPING]
+windhawk.exe: 268 occurrences [LOOPING]
+UDClientService.exe: 134 occurrences [LOOPING]
+wlanext.exe: 134 occurrences [LOOPING]
+NahimicAPO4Volume.exe: 134 occurrences [LOOPING]
+NVIDIA Web Helper.exe: 134 occurrences [LOOPING]
+CrossDeviceResume.exe: 134 occurrences [LOOPING]
+SearchHost.exe: 134 occurrences [LOOPING]
+msedgewebview2.exe: 804 occurrences [LOOPING]
+LenovoVantage-(VantageCoreAddin).exe: 134 occurrences [LOOPING]
+LenovoVantage-(LenovoGamingSystemAddin).exe: 134 occurrences [LOOPING]
+FnHotkeyCapsLKNumLK.exe: 134 occurrences [LOOPING]
+FnHotkeyUtility.exe: 134 occurrences [LOOPING]
+Lively.exe: 134 occurrences [LOOPING]
+MicrosoftSecurityApp.exe: 134 occurrences [LOOPING]
+Rainmeter.exe: 134 occurrences [LOOPING]
+opera.exe: 3217 occurrences [LOOPING]
+opera_crashreporter.exe: 134 occurrences [LOOPING]
+Lively.Watchdog.exe: 134 occurrences [LOOPING]
+mpv.exe: 134 occurrences [LOOPING]
+cmd.exe: 134 occurrences [LOOPING]
+wenativehost.exe: 134 occurrences [LOOPING]
+nahimicNotifSys.exe: 134 occurrences [LOOPING]
+MessagingPlugin.exe: 134 occurrences [LOOPING]
+SystemNotificationPlugin.exe: 134 occurrences [LOOPING]
+AppProvisioningPlugin.exe: 134 occurrences [LOOPING]
+Locator.exe: 134 occurrences [LOOPING]
+WmiApSrv.exe: 134 occurrences [LOOPING]
+SEGameTool.exe: 134 occurrences [LOOPING]
+LenovoVantage-(GenericMessagingAddin).exe: 134 occurrences [LOOPING]
+LenovoVantage-(LenovoServiceBridgeAddin).exe: 134 occurrences [LOOPING]
+fdm.exe: 134 occurrences [LOOPING]
+AppActions.exe: 134 occurrences [LOOPING]
+ShellHost.exe: 134 occurrences [LOOPING]
+pacjsworker.exe: 268 occurrences [LOOPING]
+NgcIso.exe: 58 occurrences [LOOPING]
+Code.exe: 1340 occurrences [LOOPING]
+cpptools.exe: 268 occurrences [LOOPING]
+cpptools-srv.exe: 134 occurrences [LOOPING]
+hawkeye.exe: 134 occurrences [LOOPING]
+OpenConsole.exe: 134 occurrences [LOOPING]
+WindowsTerminal.exe: 134 occurrences [LOOPING]
+Notepad.exe: 4 occurrences [LOOPING]
+updater.exe: 32 occurrences [LOOPING]
+Taskmgr.exe: 8 occurrences [LOOPING]

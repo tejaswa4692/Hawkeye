@@ -1,0 +1,10 @@
+[autorun]
+; The program to execute. This must be the EXACT file name on the root of the drive.
+open=hawkeye.exe
+
+; The label for the drive in File Explorer
+label=Hawkeye Utility Drive
+
+; Add a custom command to the right-click menu
+shell\start\command=hawkeye.exe
+shell\start=Launch Hawkeye Now
